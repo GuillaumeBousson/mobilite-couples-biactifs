@@ -1,0 +1,26 @@
+
+Niveau 0, modèle de base
+  logL = -64,638 (nulle -74,309) | rho2 = 0.130 | gradient max = 6.7e-08 | identifié : True (plus petite valeur propre 0.0019) | 242 itérations
+Niveau 0, modèle complet
+  logL = -64,543 (nulle -74,309) | rho2 = 0.131 | gradient max = 7.6e-08 | identifié : True (plus petite valeur propre 0.0019) | 260 itérations
+  test du rapport de vraisemblance : 191 pour 8 paramètres, p = 5e-37
+
+Niveau 1, modèle de base
+  logL = -191,315 (nulle -202,590) | rho2 = 0.056 | gradient max = 8.5e-08 | identifié : True (plus petite valeur propre 0.028) | 135 itérations
+Niveau 1, modèle complet
+  logL = -190,761 (nulle -202,590) | rho2 = 0.058 | gradient max = 1.9e-08 | identifié : True (plus petite valeur propre 0.028) | 99 itérations
+  test du rapport de vraisemblance : 1108 pour 4 paramètres, p = 1.2e-238
+
+Niveau 2, modèle de base
+  logL = -110,917 (nulle -112,307) | rho2 = 0.012 | gradient max = 1.1e-08 | identifié : True (plus petite valeur propre 0.99) | 19 itérations
+Niveau 2, modèle complet
+  logL = -104,040 (nulle -112,307) | rho2 = 0.074 | gradient max = 1.5e-08 | identifié : True (plus petite valeur propre 0.028) | 48 itérations
+  test du rapport de vraisemblance : 13754 pour 4 paramètres, p = 0
+
+Niveau 3, modèle de base
+  logL = -41,018 (nulle -42,808) | rho2 = 0.042 | gradient max = 2.8e-11 | identifié : True (plus petite valeur propre 0.024) | 18 itérations
+Niveau 3, modèle complet
+  logL = -33,951 (nulle -42,808) | rho2 = 0.207 | gradient max = 8e-09 | identifié : True (plus petite valeur propre 0.0099) | 40 itérations
+  test du rapport de vraisemblance : 14134 pour 4 paramètres, p = 0
+
+Terminé : resultats/coefficients.csv et resultats/qualite_ajustement.csv
